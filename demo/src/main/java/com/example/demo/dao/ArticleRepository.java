@@ -1,0 +1,16 @@
+package com.example.demo.dao;
+
+import com.example.demo.entity.Article;
+import org.springframework.data.mongodb.repository.MongoRepository;
+
+import java.util.List;
+
+/**
+ * 继承 MongoRepository<实体类，主键类型>,以实现CRUD
+ **/
+
+public interface ArticleRepository extends MongoRepository<Article,String> {
+    //根据id查询文章
+    List<Article> findByid(String id);
+}
+
