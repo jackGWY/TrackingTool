@@ -7,7 +7,7 @@ spring:
       database: comment
       authentication-database: test
       username: fooadmin
-      password: 123456
+      password: "123456"
   redis:
     host: 127.0.0.1
     port: 6379
