@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cb617cca-0b1d-4166-aa4e-b5465e0ce086" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/TrackingSystem/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/TrackingSystem/.gitignore" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2Qy4ORdNMFlxbmRpIa1tewZMyjn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;jbr-17&quot;,
+    &quot;last_opened_file_path&quot;: &quot;H:/Project/Hotelcheckout/TrackingSystem/src/main/resources/SQL&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;show.run.dashboard.notification&quot;: &quot;false&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;fe01ce2a7fbac8fafaed7c982a04e229&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;,
+      &quot;exasol&quot;,
+      &quot;mongo&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="H:\Project\Hotelcheckout\TrackingSystem\src\main\resources\SQL" />
+      <recent name="H:\Project\demo\demo\src\test\resources" />
+      <recent name="H:\Project\demo\demo\src\main\java\com\example\demo" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.demo.Mapper" />
+      <recent name="com.example.demo" />
+      <recent name="com.example.demo.controller" />
+      <recent name="com.example.demo.entity" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.DemoApplication (1)">
+    <configuration name="EmployeeServiceTest.testMapper (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.demo" />
+      <option name="MAIN_CLASS_NAME" value="com.example.demo.EmployeeServiceTest" />
+      <option name="METHOD_NAME" value="testMapper" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmployeeServiceTest.testSelectList" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TrackingSystem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.demo" />
+      <option name="MAIN_CLASS_NAME" value="com.example.demo.EmployeeServiceTest" />
+      <option name="METHOD_NAME" value="testSelectList" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demo.DemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="TrackingSystem" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demo.DemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Write tests for class CheckParcelService" type="com.diffblue.cover.write-tests-run-configuration" factoryName="com.diffblue.cover.write-tests-run-configuration" activateToolWindowBeforeRun="false" temporary="true">
+      <module name="demo" />
+      <settings run-config-name="Write tests for class CheckParcelService" include-system-env-vars="true">
+        <jvm-args />
+        <selection-scope>class</selection-scope>
+        <selected-element key="com.example.demo.service.CheckParcelService" />
+      </settings>
+      <method v="2" />
+    </configuration>
+    <configuration name="Write tests for class ParcelController" type="com.diffblue.cover.write-tests-run-configuration" factoryName="com.diffblue.cover.write-tests-run-configuration" activateToolWindowBeforeRun="false" temporary="true">
+      <module name="demo" />
+      <settings run-config-name="Write tests for class ParcelController" include-system-env-vars="true">
+        <jvm-args />
+        <selection-scope>class</selection-scope>
+        <selected-element key="com.example.demo.controller.ParcelController" />
+      </settings>
+      <method v="2" />
+    </configuration>
+    <configuration name="Write tests for method ParcelMapper.getParcelById" type="com.diffblue.cover.write-tests-run-configuration" factoryName="com.diffblue.cover.write-tests-run-configuration" activateToolWindowBeforeRun="false" temporary="true">
+      <module name="demo" />
+      <settings run-config-name="Write tests for method ParcelMapper.getParcelById" include-system-env-vars="true">
+        <jvm-args />
+        <selection-scope>method</selection-scope>
+        <selected-element key="com.example.demo.Mapper.ParcelMapper.getParcelById:(Ljava/lang/String;)Ljava/util/List;" />
+      </settings>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Diffblue Cover.Write tests for class ParcelController" />
+        <item itemvalue="Diffblue Cover.Write tests for class CheckParcelService" />
+        <item itemvalue="Diffblue Cover.Write tests for method ParcelMapper.getParcelById" />
+        <item itemvalue="JUnit.EmployeeServiceTest.testMapper (1)" />
+        <item itemvalue="JUnit.EmployeeServiceTest.testSelectList" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cb617cca-0b1d-4166-aa4e-b5465e0ce086" name="Changes" comment="" />
+      <created>1686312455196</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1686312455196</updated>
+      <workItem from="1686312456627" duration="1516000" />
+      <workItem from="1686370798037" duration="9102000" />
+      <workItem from="1686710111902" duration="9666000" />
+      <workItem from="1686815655264" duration="458000" />
+      <workItem from="1686893432423" duration="10795000" />
+      <workItem from="1686970709654" duration="9375000" />
+      <workItem from="1687161131442" duration="3698000" />
+      <workItem from="1687411420583" duration="1168000" />
+      <workItem from="1687770621913" duration="765000" />
+      <workItem from="1689133604892" duration="2301000" />
+      <workItem from="1690872405072" duration="130000" />
+      <workItem from="1691817989141" duration="515000" />
+      <workItem from="1694260148584" duration="4599000" />
+      <workItem from="1698326990929" duration="522000" />
+      <workItem from="1698385595949" duration="1395000" />
+      <workItem from="1710236797444" duration="1420000" />
+      <workItem from="1710253505283" duration="8107000" />
+      <workItem from="1710644634637" duration="1427000" />
+      <workItem from="1710765546307" duration="14482000" />
+      <workItem from="1710815864770" duration="3287000" />
+    </task>
+    <task id="LOCAL-00001" summary="first commit , redis, mongodb, mysql config">
+      <created>1687051744858</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1687051744858</updated>
+    </task>
+    <task id="LOCAL-00002" summary="application.yml">
+      <created>1687052404056</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1687052404056</updated>
+    </task>
+    <task id="LOCAL-00003" summary="application.yml passsword modify &quot;&quot;">
+      <created>1694262690483</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1694262690483</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add parcel controller, service, mapper">
+      <created>1710817876404</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1710817876404</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit , redis, mongodb, mysql config" />
+    <MESSAGE value="application.yml" />
+    <MESSAGE value="application.yml passsword modify &quot;&quot;" />
+    <MESSAGE value="add parcel controller, service, mapper" />
+    <option name="LAST_COMMIT_MESSAGE" value="add parcel controller, service, mapper" />
+  </component>
+</project>
